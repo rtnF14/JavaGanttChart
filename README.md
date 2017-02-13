@@ -4,13 +4,13 @@ Open source java gantt chart library.
 ## How to use
 Here is an example how to use 
 
-GanttChartModel gcModel = new GanttChartModel()
+GanttChartModel gcModel = new GanttChartModel();
 
-gcModel.addTask("Inisialisasi Project", 1, 2)
+gcModel.addTask("Inisialisasi Project", 1, 2);
 
-gcModel.addTask("Kickstart Meeting", 3, 1)
+gcModel.addTask("Kickstart Meeting", 3, 1);
 
-GanttChart gc = new GanttChart(gcModel)
+GanttChart gc = new GanttChart(gcModel);
 
 
 addTask takes three arguments, 
