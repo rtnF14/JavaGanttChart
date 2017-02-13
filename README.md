@@ -1,6 +1,8 @@
 # JavaGanttChart
 Open source java gantt chart library. 
 
+![alt-text](https://github.com/adipurnama141/JavaGanttChart/blob/master/ganttchart.PNG?raw=true)
+
 ## How to use
 Here is an example how to use 
 
