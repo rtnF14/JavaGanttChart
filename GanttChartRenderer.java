@@ -1,4 +1,4 @@
-package org.compiere.ganttchart;
+
 
 import java.awt.Component;
 
